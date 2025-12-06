@@ -1,0 +1,4 @@
+{
+    "command": "SERVER_PORT=<port> SERVER_ADDRESS=<host> ./gradlew bootRun",
+    "working_directory": "/home/kavia/workspace/code-generation/online-shopping-mall-system-287261-287271/springboot_backend"
+}
